@@ -6,4 +6,8 @@ function sub(a, b) {
   return a - b;
 }
 
-console.log(sub(100, 22));
+function mult(a, b) {
+  return a * b;
+}
+
+console.log(mult(3, 4));
